@@ -1,7 +1,9 @@
 {
-    "name": "darren/test",
-    "description": "test",
-    "type": "project",
+    "name": "darren/phalcon",
+    "description": "servers project",
+     "type": "library",
+  "license": "MIT",
+  "version": "base",
     "authors": [
         {
             "name": "darren",
@@ -11,5 +13,6 @@
     "require": {
     	"php":">=5.6"
     },
-    "homepage": ""
+    "homepage": "https://github.com/Darrenzzy/sh_projects"
+
 }
